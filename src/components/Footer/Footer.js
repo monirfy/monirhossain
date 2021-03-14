@@ -31,7 +31,7 @@ const Footer = () => (
           </a>
         </li>
       </ul>
-      <p className='lead'>Copyright &copy; 2021 by Monir Hossain</p>
+      <p>Copyright &copy; 2021 by Monir Hossain</p>
     </div>
   </footer>
 );
