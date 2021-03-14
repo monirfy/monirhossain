@@ -10,6 +10,7 @@
 }
 .portfolio-body {
   padding: 15px;
+  height: 92px !important;
 }
 .portfolio-body h3 {
   font-size: 1rem;
