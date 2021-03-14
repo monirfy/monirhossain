@@ -1,0 +1,43 @@
+.portfolio {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+  border-radius: 0.25rem;
+}
+
+.portfolio img {
+  max-width: 100%;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+}
+.portfolio-body {
+  padding: 15px;
+}
+.portfolio-body h3 {
+  font-size: 1.25rem;
+  margin-bottom: 0;
+  color: #000;
+}
+.portfolio-body span {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #999;
+}
+
+.portfolio-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  border-top: 1px solid #eee;
+}
+.portfolio-price svg {
+  margin-right: 0.5rem;
+}
+
+.portfolio-download {
+  display: inline-block;
+  padding: 8px 10px;
+  background-color: #000;
+  margin-left: 10px;
+  border-radius: 0.25rem;
+  color: #fff;
+}
