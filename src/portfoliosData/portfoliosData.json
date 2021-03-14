@@ -1,39 +1,6 @@
 [
   {
-    "id": "1",
-    "name": "Rob Davidson",
-    "description": "Personal portfolio website",
-    "price": "Free",
-    "image": "https://res.cloudinary.com/monirh/image/upload/v1609927717/portfolio/rob_uojwby.png",
-    "download": "https://github.com/monirfy/rob-davidson/",
-    "preview": "https://monirfy.github.io/rob-davidson/",
-    "tags": "HTML",
-    "categories": "HTML"
-  },
-  {
-    "id": "2",
-    "name": "Rob Davidson",
-    "description": "Personal portfolio website",
-    "price": "Free",
-    "image": "https://res.cloudinary.com/monirh/image/upload/v1609927717/portfolio/rob_uojwby.png",
-    "download": "https://github.com/monirfy/rob-davidson/",
-    "preview": "https://monirfy.github.io/rob-davidson/",
-    "tags": "HTML",
-    "categories": "HTML"
-  },
-  {
-    "id": "3",
-    "name": "Rob Davidson",
-    "description": "Personal portfolio website",
-    "price": "Free",
-    "image": "https://res.cloudinary.com/monirh/image/upload/v1609927717/portfolio/rob_uojwby.png",
-    "download": "https://github.com/monirfy/rob-davidson/",
-    "preview": "https://monirfy.github.io/rob-davidson/",
-    "tags": "HTML",
-    "categories": "HTML"
-  },
-  {
-    "id": "3",
+    "id": "1000",
     "name": "Rob Davidson",
     "description": "Personal portfolio website",
     "price": "Free",

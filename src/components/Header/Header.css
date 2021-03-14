@@ -1,0 +1,23 @@
+.header {
+  padding: 10px 0;
+}
+.logo {
+  width: 160px;
+}
+
+.main-menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.main-menu ul li {
+  float: left;
+}
+.main-menu ul li a {
+  color: #555;
+  font-weight: 500;
+  display: block;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
