@@ -1,5 +1,27 @@
 [
   {
+    "id": "998",
+    "name": "Grid Pro",
+    "description": "Website template with CSS Grid",
+    "price": "Free",
+    "image": "https://res.cloudinary.com/monirh/image/upload/v1610347205/portfolio/gridpro_blwe9w.png",
+    "download": "https://github.com/monirfy/gridpro",
+    "preview": "https://monirfy.github.io/gridpro/",
+    "tags": "HTML, CSS Grid",
+    "categories": "HTML"
+  },
+  {
+    "id": "999",
+    "name": "Image Gallery",
+    "description": "With CSS grid properties",
+    "price": "Free",
+    "image": "https://res.cloudinary.com/monirh/image/upload/v1610206150/portfolio/css-grid_p705du.png",
+    "download": "https://github.com/monirfy/photo-gallery-v1",
+    "preview": "https://monirfy.github.io/photo-gallery-v1/",
+    "tags": "HTML, CSS Grid",
+    "categories": "HTML"
+  },
+  {
     "id": "1000",
     "name": "Rob Davidson",
     "description": "Personal portfolio website",

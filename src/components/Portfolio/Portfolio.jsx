@@ -4,7 +4,7 @@ import { faGift, faDownload } from '@fortawesome/free-solid-svg-icons';
 import './Portfolio.css';
 
 const Portfolio = (props) => {
-  const { name, tags, image, preview, download } = props.portfolio;
+  const { name, tags, image, preview, download, description } = props.portfolio;
   return (
     <div className='col-lg-4 col-md-6'>
       <div className='portfolio'>
@@ -16,7 +16,9 @@ const Portfolio = (props) => {
         <div className='portfolio-body'>
           <span>{tags}</span>
           <a href={preview} target='_blank' rel='noreferrer noopener'>
-            <h3>{name}</h3>
+            <h3>
+              {name} - {description}
+            </h3>
           </a>
         </div>
         <div className='portfolio-footer'>
