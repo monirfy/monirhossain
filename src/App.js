@@ -10,20 +10,24 @@ import NotFound from './components/NotFound/NotFound';
 function App() {
   return (
     <Router>
-      <Header></Header>
+      
       <Switch>
         <Route exact path='/'>
+          <Header></Header>
           <Promo></Promo>
           <Portfolios></Portfolios>
+          <Footer></Footer>
         </Route>
         <Route exact path='/about'>
+          <Header></Header>
           <About></About>
+          <Footer></Footer>
         </Route>
         <Route path='*'>
           <NotFound></NotFound>
         </Route>
       </Switch>
-      <Footer></Footer>
+      
     </Router>
   );
 }
