@@ -1,6 +1,6 @@
 [
   {
-    "id": "987",
+    "id": "986",
     "name": "Fantasy Football",
     "description": "React routing project",
     "price": "Free",
@@ -11,7 +11,7 @@
     "categories": "React JS"
  }, 
   {
-    "id": "988",
+    "id": "987",
     "name": "FCB",
     "description": "Simple react app",
     "price": "Free",
@@ -22,6 +22,17 @@
     "categories": "React JS"
  },
  {
+    "id": "988",
+    "name": "Fancy Slider",
+    "description": "Slider with Pixabay API ",
+    "price": "Free",
+    "image": "https://res.cloudinary.com/monirh/image/upload/v1615783710/portfolio/assingment-6_xgsddk.jpg",
+    "download": "https://github.com/monirfy/fancy-slider",
+    "preview": "https://monirfy.github.io/fancy-slider/",
+    "tags": "Vanilla JS, API",
+    "categories": "JavaScript"
+ },
+ {
     "id": "989",
     "name": "Hungry Monster",
     "description": "The Meal DB API",
@@ -29,7 +40,7 @@
     "image": "https://res.cloudinary.com/monirh/image/upload/v1612755193/portfolio/hungry_d7wxet.jpg",
     "download": "https://github.com/monirfy/hungry-monster",
     "preview": "https://monirfy.github.io/hungry-monster/",
-    "tags": "Vanilla JS",
+    "tags": "Vanilla JS, API",
     "categories": "JavaScript"
   },    
   {
@@ -40,7 +51,7 @@
     "image": "https://res.cloudinary.com/monirh/image/upload/v1612755181/portfolio/country-res-api_jgzycj.jpg",
     "download": "https://github.com/monirfy/country-rest-api",
     "preview": "https://monirfy.github.io/country-rest-api/",
-    "tags": "Vanilla JS",
+    "tags": "Vanilla JS, API",
     "categories": "JavaScript"
   },
   {
