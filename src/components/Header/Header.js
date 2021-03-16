@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header className='header'>
       <div className='container'>
-        <div className='row'>
+       
           <div className='col d-flex align-items-center justify-content-between'>
             <div className='logo'>
               <Link to='/'>
@@ -24,7 +24,7 @@ const Header = () => {
               </ul>
             </div>
           </div>
-        </div>
+    
       </div>
     </header>
   );
