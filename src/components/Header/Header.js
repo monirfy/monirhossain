@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from '../../images/monirhossain.svg';
+import { Link } from 'react-router-dom';
 import './Header.css';
 const Header = () => {
   return (
@@ -8,19 +9,21 @@ const Header = () => {
         <div className='row'>
           <div className='col d-flex align-items-center justify-content-between'>
             <div className='logo'>
-              <a href='/'>
+              {/* <a as={Link} to='/' rel='noreferrer'>
                 <img src={logo} alt='' />
-              </a>
+              </a> */}
+
+              <Link to='/'>
+                <img src={logo} alt='' />
+              </Link>
             </div>
             <div className='main-menu'>
               <ul>
                 <li>
-                  <a className='active' href='/'>
-                    Home
-                  </a>
+                  <Link to='/'>Home</Link>
                 </li>
                 <li>
-                  <a href='about/'>About Me</a>
+                  <Link to='/about'>About</Link>
                 </li>
               </ul>
             </div>
