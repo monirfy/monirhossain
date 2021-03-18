@@ -11,23 +11,28 @@ const Footer = () => (
     <div className='container'>
       <ul>
         <li>
-          <a href='https://github.com/monirfy/' target='_blank' rel='noreferrer'>
+          <a href='https://github.com/MonirHossainPro/' target='_blank' rel='noreferrer'>
             <FontAwesomeIcon icon={['fab', 'github']} />
           </a>
         </li>
         <li>
-          <a href='https://twitter.com/monirfy/' target='_blank' rel='noreferrer'>
+          <a href='https://twitter.com/MonirHossainPro/' target='_blank' rel='noreferrer'>
             <FontAwesomeIcon icon={['fab', 'twitter']} />
           </a>
         </li>
         <li>
-          <a href='https://www.linkedin.com/in/monirfy/' target='_blank' rel='noreferrer'>
+          <a href='https://www.linkedin.com/in/MonirHossainPro/' target='_blank' rel='noreferrer'>
             <FontAwesomeIcon icon={['fab', 'linkedin']} />
           </a>
         </li>
         <li>
-          <a href='https://facebook.com/monirfy/' target='_blank' rel='noreferrer'>
+          <a href='https://facebook.com/MonirHossainPro/' target='_blank' rel='noreferrer'>
             <FontAwesomeIcon icon={['fab', 'facebook']} />
+          </a>
+        </li>
+        <li>
+          <a href='https://instagram.com/MonirHossainPro/' target='_blank' rel='noreferrer'>
+            <FontAwesomeIcon icon={['fab', 'instagram']} />
           </a>
         </li>
       </ul>
