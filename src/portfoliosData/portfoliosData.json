@@ -1,6 +1,17 @@
 [
   {
     "id": "981",
+    "name": "Dhkar Chaka",
+    "description": "User authentication system",
+    "price": "Free",
+    "image": "https://res.cloudinary.com/monirh/image/upload/v1616293832/portfolio/website-thumb_agsayo.jpg",
+    "download": "#",
+    "preview": "https://dhakar-chaka-36c50.web.app/",
+    "tags": "React JS",
+    "categories": "JavaScript"
+ },
+ {
+    "id": "981",
     "name": "Remove Users",
     "description": "Using React useState hook",
     "price": "Free",
