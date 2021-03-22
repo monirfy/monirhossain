@@ -399,3 +399,8 @@ svg {
 .justify-content-between {
   justify-content: space-between !important;
 }
+@media (max-width: 577px) {
+  .g-3, .gx-3 {
+    --bs-gutter-x: 0 !important;
+}
+}
